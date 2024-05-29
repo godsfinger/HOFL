@@ -7,12 +7,12 @@ HOFL is a project to integrate a Holographic helpful AGI onto linux, to help boo
 It was made for the simple reason I find arch linux boring, compared to windows... also hopefully to boost the market share of linux.
 
 # How to install on Arch Linux
-Step one: Download the files.
-Step two: Make the shell script executable
+- Step one: Download the files.
+- Step two: Make the shell script executable
 
 `chmod +x install_hofl.sh
 `
-Step three: Run the script:
+- Step three: Run the script:
 `sudo ./install_hofl.sh
 `
 
